@@ -1,5 +1,6 @@
 {
   "name": "vbox",
+  "description": "Node.js wrapper for VirtualBox CLI frontends",
   "author": {
     "name": "Esco Obong",
     "email": "menzoic@gmail.com"
@@ -17,5 +18,6 @@
   },
   "dependencies": {
     "async": "~0.2.9"
-  }
+  },
+  "readmeFilename": "README.md"
 }

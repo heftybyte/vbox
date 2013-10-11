@@ -1,8 +1,8 @@
 var buster = require('buster');
 var assert = buster.referee.assert;
 var async = require('async');
-var vbox = require('../vbox');
-var Box = require('../box');
+var vbox = require('../lib/vbox');
+var Box = require('../lib/box');
 var testBox = 'IE7 - WinXP';
 
 buster.testCase('Box', {

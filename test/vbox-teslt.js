@@ -1,5 +1,5 @@
 var buster = require('buster');
-var vbox = require('../vbox');
+var vbox = require('../lib/vbox');
 
 
 buster.testCase('general options', {
